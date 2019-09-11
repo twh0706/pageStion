@@ -1,0 +1,15 @@
+.fen{
+    width: 100%;
+    height:20px;
+    display: flex;
+}
+li{
+    list-style: none;
+    width: 30px;
+    height: 30px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+.active{
+    color: aqua;
+}
